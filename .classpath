@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/hibernate-core-6.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jboss-logging-3.5.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jakarta.xml.bind-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/classmate-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/hibernate-annotations-3.5.6-Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/hibernate-commons-annotations-6.0.6.Final (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/mysql connector-jar/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jakarta.xml.bind-api-4.0.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jaxb-impl-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jaxb-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/jakarta.activation-api-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MahalakshmiVeeraraj/Downloads/antlr4-runtime-4.13.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
